@@ -1,5 +1,4 @@
-- 👋 Hi, my name is Matias Galante. I like to play video games, go on long walks/runs while listening to music and to expand my knowledge of JavaScript/TypeScript.
-- 👀 I’m interested in learning about front end development technologies
+- 👋 Hi, my name is Matias Galante. I'm a former junior web developer with nearly 4 years experience looking for employment. My projects include things I've done with Angular and Node.js as well as some projects I've done while in school.
 <!-- 🌱 I’m currently learning ... -->
 <!--- 💞️ I’m looking to collaborate on ... -->
 - 📫 You can reach me at matiasng087@gmail.com or text me at (801)-857-7475.
